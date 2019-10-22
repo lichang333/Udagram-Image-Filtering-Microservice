@@ -2,6 +2,12 @@
 
 ## Tasks
 
+### Endpoint url
+
+```bash
+http://udagram-env.5gpdvppe5h.ap-northeast-2.elasticbeanstalk.com/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg
+```
+
 ### Setup Node Environment
 
 You'll need to create a new node server. Open a new terminal within the project directory and run:
